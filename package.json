@@ -1,7 +1,7 @@
 {
-  "name": "raisin-color",
-  "displayName": "raisin color",
-  "description": "My Theme",
+  "name": "raisin-theme",
+  "displayName": "Raisin Theme",
+  "description": "vscode theme inspired by raisins",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.103.0"
@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "RAISIN Theme",
+        "label": "Raisin Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/RAISIN Theme-color-theme.json"
+        "path": "./themes/Raisin Theme-color-theme.json"
       }
     ]
   }
