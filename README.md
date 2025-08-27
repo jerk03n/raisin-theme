@@ -1,5 +1,6 @@
 # raisin-color README
 Wanted to try making a custom theme for vscode ^_^ <br>
+This is a theme for me and me only. <br> 
 I used https://themes.vscode.one for the actual editing, I then just copy-pasted the json file into the project.<br>
 
 ## Set Up
