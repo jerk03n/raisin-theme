@@ -1,16 +1,16 @@
 # raisin-color README
+Wanted to try making a custom theme for vscode ^_^ <br>
+I used https://themes.vscode.one for the actual editing, I then just copy-pasted the json file into the project.<br>
 
-## Working with Markdown
+## Set Up
+1. run `command npm install --global yo generator-code`
+2. run `command yo code`
+3. Pick "New Color Theme"
+4. Choose "No, start fresh"
+5. Provide answers to the remaining questions
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+## Installation
+1. run command `npm install -g @vscode/vsce`
+2. run command `vsce package`
+3. run command `code --install-extension raisin-theme-0.0.1.vsix`
+4. YIPEE!, can know access the theme in command palette 
